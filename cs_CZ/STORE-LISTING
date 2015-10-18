@@ -1,0 +1,42 @@
+Vše v jednom terminál pro Android včetně SSH, Lokálního Shell, Mosh a Telnet podpory.
+
+Funkce:
+- Plně barevný terminál / ssh klient
+- Vyskakovací klávesnice se všemy obvykle obtížně nalezitelnými znaky
+- Použijte tlačítka hlasitosti pro rychlou změnu velikosti písma
+- Podpora externí klávesnice
+- Gesta pro irssi, weechat, tmux a screen
+- Pluginy komunity i třetích stran
+- Oficiální podpora Mosh (http://mosh.mit.edu)
+- Podpora Telnet
+- Podpora lokálního Android terminálu
+- Tmavá, Světlá, 80's hackeři, Molokai, "Solarized" Tmavá a "Solarized" Světlá barevná šablona do terminálu
+   Pro přehled "solarized" barevného schéma a proč se hodí pro použití v terminálu mkrněte na http://ethanschoonover.com/solarized
+- Klikněte na URL a otevřete jej v prohlížeči
+- Kopírujte & Vkládejte uvnitř sessions
+- Uložte / Sdílejte přepis SSH do Dropboxu/Evernote/Emailu & SD karty
+- Podpora UTF-8 znaků
+- Jodnoduše organizujte spojení do skupin
+- Mějte více běžících SSH spojení na pozadí
+- Hladká spojení 'přes' ostatní SSH propojení jediným kliknutím
+- Okamžitý přístup k často použivaným spojením po otevření aplikace
+- IPv6 podpora
+- Podpora zaheslovaných & OpenSSH privátních klíčů (ECDSA, RSA and DSA)
+- Generátor RSA klíčů (podpora šifrování)
+- Přeposílání agenta SSH klíčů
+- Podpora dvou-faktorové autentizace (např: Google Authenticator)
+- Identity (uživatelé/hesla/klíče) jsou odděleny od spojení. Namísto aktualizace každého spojení, když si změníte heslo - prostě aktualizujte identitu a všechna spojení s ní spojený budou používat nové heslo/klíč.
+- zlib komprese pro vylepšení SSH sessions na sítích s dlouhou odezvou
+
+
+Pro Funkce (volitelná platba v aplikaci):
+- Rychlé a jednoduché přesměrování portů které může být automaticky připojeno skrze aplikaci nebo widget a může se automaticky otevřít v okně prohlížeče, pokud je to nutné.
+- Integrace s Amazon AWS / EC2, synchronizujte spojení a automaticky seskupujte servery podle jejich třídy nebo bezpečnostní skupiny.
+- Udržujte bezpečně vše synchronizované napříč různými zařízeními
+- Automatizované AES-256 šifrování záloh všech spojení a nastavení
+- Nádherný widget pro rychlý přístup k vašem často používaným spojením, nebo konkrétní skupině (Android 3.0+).
+- Týmová spolupráce. sdílejte vaše skupiny spojení se členy týmu a začněte pracovat společně, namísto odděleně.
+- Šikovná knihovna kousků kódu pro rychlý přístup k vašem často používaným příkazům
+- Bazpečnostní zámek pro automatickou ochranu JuiceSSH po chvíli neaktivity
+
+Pro detailní přehled oprávnění aplikace a jak je které použito v našem ssh klientu prosím navštivte https://juicessh.com/permissions
